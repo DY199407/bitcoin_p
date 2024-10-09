@@ -1,12 +1,9 @@
-pip install --no-cache-dir -r requirements.txt
 streamlit
 pandas
-pandas-ta
 requests
 python-dotenv
 openai
 plotly
 jwt
 pytz
-setuptools>=65.0.0  # 최신 setuptools 버전
-numpy>=1.21.0,<1.24.0  # 호환되는 numpy 버전
+setuptools>=65.0.0
