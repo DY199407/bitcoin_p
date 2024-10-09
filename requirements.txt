@@ -1,7 +1,7 @@
 numpy==1.21.0
-streamlit
-pandas
-pandas_ta
+streamlit==1.39.0
+pandas==1.4.1 
+pandas_ta==0.3.14b0
 requests
 python-dotenv
 openai
