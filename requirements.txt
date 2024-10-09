@@ -1,7 +1,7 @@
 numpy==1.22.3
 streamlit
 pandas
-pandas-ta  
+pandas_ta
 requests
 python-dotenv
 openai
