@@ -1,3 +1,4 @@
+numpy --no-binary=:all:
 streamlit
 pandas
 pandas-ta  
@@ -8,4 +9,3 @@ plotly
 jwt
 pytz
 setuptools
-numpy--no-cache-dir--no-binary:all
