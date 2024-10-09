@@ -1,6 +1,6 @@
 streamlit
 pandas
-pandas-ta
+pandas-ta==0.3.14b0  # 경량 버전 설치
 requests
 python-dotenv
 openai
@@ -8,4 +8,4 @@ plotly
 jwt
 pytz
 setuptools
-numpy--upgrade
+numpy==1.21.0
