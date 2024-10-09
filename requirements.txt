@@ -8,4 +8,4 @@ openai
 plotly
 jwt
 pytz
-setuptools
+setuptools>=58.0.0
