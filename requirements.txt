@@ -1,4 +1,4 @@
-numpy==1.22.3
+numpy==1.21.0
 streamlit
 pandas
 pandas_ta
@@ -8,4 +8,5 @@ openai
 plotly
 jwt
 pytz
-
+setuptools>=58.0.0
+wheel
