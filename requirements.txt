@@ -1,6 +1,7 @@
+pip install --no-cache-dir -r requirements.txt
 streamlit
 pandas
-pandas-ta==0.3.14b0  # 안정적인 경량 버전 설치
+pandas-ta
 requests
 python-dotenv
 openai
