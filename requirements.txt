@@ -8,4 +8,4 @@ plotly
 jwt
 pytz
 setuptools
-numpy>=1.22.0
+numpy--upgrade
