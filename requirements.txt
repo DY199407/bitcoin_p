@@ -1,4 +1,4 @@
-numpy  # 안정적인 버전 선택
+numpy==1.21.0 # 안정적인 버전 선택
 pandas==1.4.1  # numpy와 호환되는 버전
 pandas_ta==0.3.14b0
 streamlit==1.39.0
