@@ -7,7 +7,7 @@ wheel
 PyJWT==2.3.0
 PyJWT==2.3.0  # JWT 토큰 생성을 위한 라이브러리
 python-dotenv==1.0.0  # 환경 변수를 불러오는 dotenv 라이브러리
-openai==0.27.2  # OpenAI API 클라이언트
+openai  # OpenAI API 클라이언트
 pytz==2022.1  # 타임존 처리 라이브러리
 plotly==5.24.1  # 데이터 시각화를 위한 Plotly
 streamlit-autorefresh==1.0.1  # Streamlit 자동 새로 고침
